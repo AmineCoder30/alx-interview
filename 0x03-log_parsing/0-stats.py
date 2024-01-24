@@ -51,9 +51,7 @@ try:
                 counter = 0
 
 finally:
-    print_msg(dict_sc, total_file_size)#!/usr/bin/python3
-
-import sys
+    print_msg(dict_sc, total_file_size)
 
 
 def print_msg(dict_sc, total_file_size):
