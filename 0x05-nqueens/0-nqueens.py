@@ -111,3 +111,4 @@ n = get_input()
 get_solutions()
 for solution in solutions:
     print(solution)
+
