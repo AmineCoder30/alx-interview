@@ -1,1 +1,1 @@
-# N Queens
+ N Queens project
